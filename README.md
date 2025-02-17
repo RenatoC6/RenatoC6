@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Renato!</h1>
+<h1 align="center"> Olá, eu sou Renato!</h1>
 
 <p align="center">
   🚀 Habilidade1 | 📡 Habilidade2 | 🎓 Habilidade3
