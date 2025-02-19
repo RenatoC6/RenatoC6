@@ -30,7 +30,7 @@
 📍 Baseado em Jundiai, SP, Brasil.  
 
 💡 **Precisa de mais informações sobre minha carreira diversificada e de sucesso. vamos conectar?** 
-     Me encontre no LinkedIn => (https://www.linkedin.com/in/thayse-frankenberger-9832161b7/) ou entre em contato por [Email](mailto:campionr6@gmail.com).  
+     Me encontre no LinkedIn => https://www.linkedin.com/in/renato-campion-a5059227/ ou entre em contato por [Email](mailto:campionr6@gmail.com).  
 
 
 
