@@ -1,13 +1,14 @@
 <h1 align="center"> Olá, eu sou Renato!</h1>
 
 <p align="center">
-  🚀 Habilidade1 | 📡 Habilidade2 | 🎓 Habilidade3
+   Desenv Sistemas |  Data Science |  Gestão de TI  |  Market Data |  Finanças |  Controladora 
 </p>
 
 ---
 
 ## 🌎 Sobre mim  
-💻 Momento profissional atual 1.
+
+💻 Atual: Momento profissional atual 1.
     Momento profissional atual 2.
 🎓 Momento estudo atual 1.
     Momento estudo atual 2.
