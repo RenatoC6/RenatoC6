@@ -8,8 +8,7 @@
 
 ## 🌎 Sobre mim  
 
-💻 Estou em um momento de estudo e desenvolvimento profissional na area de Tecnologia para retornar ao mercado de trabalho, para prestar consultoria e desenvolver projetos  
-    de desenvolvimento de sistemas, com linguagens de programação (Java, Python, R).
+💻 Estou em um momento de estudo e desenvolvimento profissional na area de Tecnologia para retornar ao mercado de trabalho, para prestar consultoria e desenvolver projetos de desenvolvimento de sistemas, com linguagens de programação (Java, Python, R).
     
 🎓 Desde dez/24 e com termino previsto para mai/25, passei no processo de seleção para participar do Treinamento em Java Back-End, pelo projeto Desenvolva+ na instituição Ada Tecnologia     e Educação S.A. em parceria com o Mercado Livre. 
 
