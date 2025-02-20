@@ -16,13 +16,12 @@
     
 🔍 Durante um periodo de 30 anos, tive uma carreira diversificada no maior banco privado brasileiro, onde construi uma carreira de sucesso, exercendo varias funções e em diversas areas 
     da empresa como: Tecnologia, Finanças, Controladoria, Market Data, em muitas delas fazendo gestão de pessoas e sendo referencia entre meus pares. 
-    Principais areas de atuação:
-
-    ✓ Gestão de TI com experiencia em unidades internacionais,
-    ✓ Análise e desenvolvimento de sistemas (Java, Cobol, SQL)
-    ✓ Gestão de contratos, fornecedores e orçamento de Market Data (Feeders),
-    ✓ Controladoria, Riscos e Compliance
-
+    Principais areas de atuação:    
+    -> Gestão de TI com experiência em unidades internacionais;
+    -> Analise e desenvolvimento de Sistemas (Java, Cobol, SQL)
+    -> Gestão de Contratos, Fornecedores e Orçamento de Market Data (Feeders)    
+    -> Controladoria, Riscos e Compliance
+    
    - Criação e utilização de tecnologia, gerando soluções rápidas para atender necessidades de automação de atividades das áreas de negócio (MS Office, Sharepoint, Phyton, Tableau, etc).
    - Gestor de Pessoas, influenciador de carreiras para iniciantes e estagiários, expert em criação de ambiente motivacional e adaptável em ambientes diversos.
         
