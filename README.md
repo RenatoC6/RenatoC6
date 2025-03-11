@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Renato!</h1>
 
 <p align="center">
-   Desenv Sistemas |  Data Science |  Gestão de TI  |  Market Data |  Finanças |  Controladoria 
+   Java | Back_End | Data Science | SQL | Analise e Desenvolvimento de Sistemas |
 </p>
 
 ---
